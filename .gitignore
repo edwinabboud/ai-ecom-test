@@ -1,0 +1,29 @@
+
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+
+# Virtual env
+.venv/
+venv/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+
+# Streamlit cache
+.streamlit/
+
+# Big binaries you should NOT push
+*.mp4
+*.mov
+*.zip
+*.tar
+*.gz
+*.7z

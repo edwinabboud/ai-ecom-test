@@ -1,0 +1,15 @@
+[
+    {"id": 1, "name": "Sprint Runner Shoes", "price": 89.99, "category": "Shoes", "rating": 4.4, "description": "Lightweight running shoes with breathable mesh and responsive foam."},
+    {"id": 2, "name": "Trail Blazer Shoes", "price": 119.00, "category": "Shoes", "rating": 4.7, "description": "All-terrain trail shoes with durable grip and ankle support."},
+    {"id": 3, "name": "Urban Hoodie", "price": 49.50, "category": "Apparel", "rating": 4.1, "description": "Soft cotton hoodie, minimalist design, everyday wear."},
+    {"id": 4, "name": "Performance T-Shirt", "price": 24.99, "category": "Apparel", "rating": 4.0, "description": "Moisture-wicking tee for workouts and casual wear."},
+    {"id": 5, "name": "Wireless Earbuds Pro", "price": 139.00, "category": "Electronics", "rating": 4.6, "description": "Noise isolation, long battery life, clear bass."},
+    {"id": 6, "name": "Smartwatch Fit", "price": 169.00, "category": "Electronics", "rating": 4.2, "description": "Heart-rate, GPS, sleep tracking, 5ATM water resistant."},
+    {"id": 7, "name": "Yoga Mat Grip", "price": 29.00, "category": "Fitness", "rating": 4.3, "description": "Non-slip mat with excellent cushioning for yoga and pilates."},
+    {"id": 8, "name": "Adjustable Dumbbells (Pair)", "price": 189.00, "category": "Fitness", "rating": 4.5, "description": "Quick-lock system, compact design for home workouts."},
+    {"id": 9, "name": "City Backpack 20L", "price": 59.00, "category": "Accessories", "rating": 4.0, "description": "Laptop sleeve, water-resistant fabric, everyday carry."},
+    {"id": 10, "name": "Road Runner Shoes", "price": 95.00, "category": "Shoes", "rating": 4.3, "description": "Neutral road running shoes with cushioned midsole."},
+    {"id": 11, "name": "Classic Jeans", "price": 69.00, "category": "Apparel", "rating": 3.9, "description": "Straight fit denim, durable and comfortable."},
+    {"id": 12, "name": "Compression Socks", "price": 19.00, "category": "Accessories", "rating": 4.2, "description": "Supportive socks for running and recovery."}
+  ]
+  
